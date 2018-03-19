@@ -1,0 +1,19 @@
+# site settings
+title: IForHunger
+subtitle: Blog
+email: josh@contend.church
+description: Keep up to date with all of our latest news and teachings.
+url: "http://iforhunger.com" # the base hostname & protocol for your site
+
+# homepage tiles
+update-count: 3
+
+# build settings
+markdown: kramdown
+
+defaults:
+  -
+    scope:
+      path: "assets/photos"
+    values:
+      image: true

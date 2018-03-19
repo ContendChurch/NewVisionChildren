@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+
+    {% include head.html %}
+
+<body class="single-page">
+  <div class="loader"></div>
+    <!--HEADER-->
+    {% include header.html %}
+
+    <!---->
+    <section id="blog" class="section-padding">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-12 text-center">
+            <h2 class="service-title pad-bt15">{{ page.title }}</h2>
+			<p class="sub-title pad-bt15">{{ page.date | date: "%B %-d, %Y"}}</p>
+			{% if page.image %}<span class="image responsive"><img src="{{ site.baseurl }}/{{ page.image }}" alt="" /></span>{% endif %}
+            <hr class="bottom-line">
+          </div>
+			<div class="col-md-12 col-sm-6 col-xs-12">
+					<div class="blog-sec">
+						<p>{{ content }}</p>
+						{% assign author = site.authors | where: 'title', page.author | first %}
+						{% if author %}
+							<div class="author" style="margin-bottom: 20px;">
+								<span class="written-by">Written by</span> <a href="{{ author.url }}">{{ author.title }}</a>
+							</div>
+						{% endif %}
+					</div>
+			</div>
+        </div>
+      </div>
+    </section>
+    
+    {% include footer.html %}
+</body>
+</html>

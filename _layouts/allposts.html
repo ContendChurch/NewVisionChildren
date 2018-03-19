@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+
+    {% include head.html %}
+
+<body class="single-page">
+  <div class="loader"></div>
+    <!--HEADER-->
+    {% include header.html %}
+
+    <!---->
+    <section id="blog" class="section-padding">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-12 text-center">
+            <h2 class="service-title pad-bt15">Latest updates from the team</h2>
+            <p class="sub-title pad-bt15">Read some of the updates and news from our team that is on the ground in India and doing the work!</p>
+            <hr class="bottom-line">
+          </div>
+		  {% for post in site.posts %}
+			<div class="col-md-4 col-sm-6 col-xs-12">
+					<div class="blog-sec">
+							<div class="blog-img">
+								{% if post.image %}<img src="{{ post.image }}" alt="" />{% endif %}
+							</div>
+							<div class="blog-info">
+								<h2>{{ post.title }}</h2>
+								<p>{{ post.excerpt }}</p>
+								<a href="{{ post.url  | relative_url }}" class="read-more">Read more →</a>
+							</div>
+					</div>
+			</div>
+			{% endfor %}
+        </div>
+      </div>
+    </section>
+    
+    {% include footer.html %}
+</body>
+</html>
