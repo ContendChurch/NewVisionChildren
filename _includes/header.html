@@ -13,7 +13,7 @@
 			<ul class="nav navbar-nav navbar-right">
 				{% for page in site.pages %}
 					{% if page.layout == "home" %}
-						<li><a href="{{ "" | absolute_url }}">{{ page.title }}</a></li>
+						<li><a href="{{ "" | absolute_url }}">Home</a></li>
 					{% endif %}
 				{% endfor %}
 				{% assign sorted = site.pages | sort:"rank" %}
