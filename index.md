@@ -3,7 +3,7 @@ layout: home
 title: Home
 landing-title: 'Harness the power of encouraging words'
 description: null
-image: null
+image: assets/img/bg-banner02.jpg
 author: null
 ---
 
