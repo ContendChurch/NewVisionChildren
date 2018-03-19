@@ -1,9 +1,8 @@
 ---
 layout: home
 title: Home
-landing-title: 'Harness the power of encouraging words'
 description: 'We are committed to loving the one in front of us and believing that Jesus will multiple anything that is placed in our hands. We believe for the impossible; to truly defeat hunger and lack of child care in India by going to battle each and every day through intercession and joyfully putting our feet to action. We establish, support, and organize feeding centers, orphanages, and general care for children in need.'
-image: assets/img/bg-banner02.jpg
+image: null
 author: null
 ---
 
