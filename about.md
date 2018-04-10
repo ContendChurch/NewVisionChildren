@@ -32,7 +32,7 @@ author: null
           <div class="col-md-3 col-sm-6 col-xs-12">
             <div class="service-item">
               <h3><span>R</span>ecklessly Loving</h3>
-              <p>Our team carries the love of Father God and brings it to every child they meet. We know that the every interaction is an opportunity for each child to encounter the fullness of our God. We are committed to representing the LOVE of God by becoming love.</p>
+              <p>Our team carries the love of Father God and brings it to every child they meet. We know that every interaction is an opportunity for each child to encounter the fullness of our God. We are committed to representing the LOVE of God by becoming love.</p>
             </div>
           </div>
           <div class="col-md-3 col-sm-6 col-xs-12">
