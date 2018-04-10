@@ -56,7 +56,7 @@ author: null
           </div>
           <div class="col-md-12 text-center">
             <h2 class="service-title pad-bt15">We need your help!</h2>
-            <p class="sub-title pad-bt15">These feeding centers are run entirely through the donations of our sponsors. <a href="/sponsor.html">Please consider becoming a sponsor today with a one-time or monthly gift!</a></p>
+            <p class="sub-title pad-bt15">These feeding centers are run entirely through the donations of our sponsors. <a href="./sponsor.html">Please consider becoming a sponsor today with a one-time or monthly gift!</a></p>
             <hr class="bottom-line">
           </div>
         </div>
