@@ -49,11 +49,50 @@ author: null
       <div class="container">
         <div class="row">
           <div class="col-md-12 text-center">
-            <h2 class="service-title pad-bt15">Latest updates from the team</h2>
-            <p class="sub-title pad-bt15">Read some of the updates and news from our team that is on the ground in India and doing the work!</p>
+            <h2 class="service-title pad-bt15">How do we do it?</h2>
+            <p class="sub-title pad-bt15">We have several feeding centers spread through out the region of Ongole, India. Collectively, we serve 500-600 children every day by providing food, teaching, and one on one time with each child. 
+            These centers provide the only help these children receive each day. These children are orphans. They are hungry. Some are disabled. Some are homeless. Some are considered "untouchables".</p>
             <hr class="bottom-line">
           </div>
-          
+          <div class="col-md-12 text-center">
+            <h2 class="service-title pad-bt15">We need your help!</h2>
+            <p class="sub-title pad-bt15">These feeding centers are run entirely through the donations of our sponsors. <a href="/sponsor.html">Please consider becoming a sponsor today with a one-time or monthly gift!</a></p>
+            <hr class="bottom-line">
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section id="service" class="section-padding wow fadeInUp">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-12 text-center">
+            <h2 class="service-title pad-bt15">Who We Are</h2>
+            <p class="sub-title pad-bt15">We are a team of individuals, connected through divine appointments, that have committed their lives to spreading the Kingdom of God throughout all the earth. Our focus through this ministry is seeing His Kingdom increase in India in such a way that it abolishes hunger, poverty, and sickness.</p>
+            <hr class="bottom-line">
+          </div>
+
+          <div class="row">
+            <div class="col-md-2">
+              <img class="img-responsive" src="assets/img/joshAndLivey.jpg" />
+            </div>
+            <div class="col-md-10">
+              <h4 class="staff-name">Josh and Olivia Arnold</h4>
+              <h5>Overseers</h5>
+              <p>Josh and Olivia have a heart to see this world be undone by a revelation of God's love: both in word and in deed. Their hearts burn to see revival not only ignited throughout the earth but sustained through devotion and love to Jesus. They currently live in Austin, TX and attend True Life in Round Rock.</p>
+            </div>
+          </div>
+          <br/>
+          <div class="row">
+            <div class="col-md-2">
+              <img class="img-responsive" src="assets/img/sam.jpg" />
+            </div>
+            <div class="col-md-10">
+              <h4 class="staff-name">Yedidya Samuel Kodavatikanti</h4>
+              <h5>Regional Director</h5>
+              <p>Sam attended Bible college at Texas Bible Institute and began to burn to see revival take root in his home town. Through divine connections, Sam became friends with Josh and Olivia and they began to partner together to bring resources to the work that Sam was already doing by himself.</p>
+            </div>
+          </div>
         </div>
       </div>
     </section>
