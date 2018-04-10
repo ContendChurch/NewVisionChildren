@@ -27,7 +27,7 @@ author: null
             <h4>Become a sponsor</h4>
             <p class="sub-title pad-bt15">Would you consider pleding a monthly donation towards our goal? <a href="https://goo.gl/forms/XU7qmd9AJ1SOz37f1" target="_blank">Please fill out this form to let us know of your commitment!</a></p>
             <p class="sub-title pad-bt15">You can send your contributions to our team in Ongole <a href="https://www.paypal.me/reachrescue" target="_blank">via PayPal</a>.</p>
-            <p>We are currently working on having a 501(c)(3) organization to provide tax-deductible receipts for you. However, due to the emergent need, we have partnered with our team in India to provide help and guidance NOW.</p>
+            <p>We are currently working on establishing a 501(c)(3) organization to provide tax-deductible receipts for you. However, due to the emergent need, we have partnered with our team in India to provide help and guidance NOW.</p>
             <hr class="bottom-line">
           </div>
  <div class="col-md-12 text-center">
