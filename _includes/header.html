@@ -7,19 +7,19 @@
 			<span class="icon-bar"></span>
 			<span class="icon-bar"></span>
 		</button>
-			<a class="navbar-brand" href="{{ "" | relative_url }}">I<span class="logo-dec">For</span>Hunger</a>
+			<a class="navbar-brand" href="{{ "" | absolute_url }}">I<span class="logo-dec">For</span>Hunger</a>
 		</div>
 		<div class="collapse navbar-collapse" id="myNavbar">
 			<ul class="nav navbar-nav navbar-right">
 				{% for page in site.pages %}
 					{% if page.layout == "home" %}
-						<li><a href="{{ "" | relative_url }}">Home</a></li>
+						<li><a href="{{ "" | absolute_url }}">Home</a></li>
 					{% endif %}
 				{% endfor %}
 				{% assign sorted = site.pages | sort:"rank" %}
 				{% for page in sorted %}
 					{% if page.layout != "home" and page.nav-menu == true %}
-						<li><a href="{{ page.url | relative_url }}">{{ page.title }}</a></li>
+						<li><a href="{{ page.url | absolute_url }}">{{ page.title }}</a></li>
 					{% endif %}
 				{% endfor %}
 			</ul>
