@@ -89,7 +89,7 @@ author: null
             </div>
             <div class="col-md-10">
               <h4 class="staff-name">Yedidya Samuel Kodavatikanti</h4>
-              <h5>Regional Director</h5>
+              <h5>Founder</h5>
               <p>Sam attended Bible college at Texas Bible Institute and began to burn to see revival take root in his home town. Through divine connections, Sam became friends with Josh and Olivia and they began to partner together to bring resources to the work that Sam was already doing by himself.</p>
             </div>
           </div>
