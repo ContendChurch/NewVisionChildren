@@ -34,7 +34,7 @@ author: null
             <h4>Our current goal</h4>
             <p class="sub-title pad-bt15">We are striving to reach our goal of $4,500 in pledges per month.</p>
              <div class="progress">
-              <div class="progress-bar" role="progressbar" style="width: 22%;" aria-valuenow="22" aria-valuemin="0" aria-valuemax="100">$1,000 (22%)</div>
+              <div class="progress-bar" role="progressbar" style="width: 0%;" aria-valuenow="0" aria-valuemin="0" aria-valuemax="100">$0 (0%)</div>
             </div>
           </div>
 
